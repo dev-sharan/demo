@@ -1,4 +1,4 @@
-{
+[{
     "Course Id": 301,
     "Course Name": "Introduction to Artificial Intelligence",
     "Provider": "Udacity",
@@ -3988,3 +3988,4 @@
     "Length": 7,
     "Video(Url)": ""
   }
+]
